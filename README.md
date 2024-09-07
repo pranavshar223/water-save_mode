@@ -1,3 +1,3 @@
 # water-saver
-<br> <h3>this it for demo and knowledge purpose.<h3>
+<br> <h3>this is for demo and knowledge purpose.<h3>
 
